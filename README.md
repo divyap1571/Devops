@@ -1,1 +1,1 @@
-# Devops
+# Git Practice Project
